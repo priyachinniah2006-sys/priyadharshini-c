@@ -57,5 +57,5 @@ An AI-based healthcare web application designed to provide users with basic heal
 
 ## 📫 Connect With Me
 
-* LinkedIn: Add your LinkedIn URL
-* GitHub: Add your GitHub profile URL
+* LinkedIn: https://www.linkedin.com/in/priyadharshini2006
+* GitHub: https://github.com/priyadharshini123
